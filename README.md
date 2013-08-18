@@ -1,3 +1,3 @@
-FooCoin (FOO)
+RandomCoin (RND)
 
 Blah, blah, blah.
